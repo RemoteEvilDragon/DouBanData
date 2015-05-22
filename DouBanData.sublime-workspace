@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"readOnly"
+			],
+			[
+				"L",
+				"l"
+			],
+			[
+				"lIS",
+				"List"
+			],
+			[
+				"lis",
+				"List"
+			],
+			[
+				"PRE",
+				"pre_url"
+			],
+			[
+				"frame",
+				"frame1"
+			],
+			[
+				"title",
+				"titles"
+			],
+			[
+				"we",
+				"website_content"
+			],
+			[
+				"tit",
+				"title_content"
+			],
+			[
+				"titl",
+				"titles"
+			],
+			[
+				"list",
+				"list2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "doubanSpider.py",
+			"settings":
+			{
+				"buffer_size": 1086,
+				"line_ending": "Windows",
+				"name": "doubanSpider.py"
+			}
+		},
+		{
+			"file": "finder.py",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Windows",
+				"name": "finder.py"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INS",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTAL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 311.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/GitHub_workspace/DouBanData"
+	],
+	"file_history":
+	[
+		"/D/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/Administrator.W492G6DWUPE74IH/AppData/Roaming/Sublime Text 3/Packages/User/python2-7.sublime-build",
+		"/F/GitHub_workspace/pcv-book-code/ch01/ch01_P002_fig1-2.py",
+		"/C/Python27/Lib/site-packages/PIL/Image.py",
+		"/F/GitHub_workspace/pcv-book-code/PCV/PCV/localdescriptors/sift.py",
+		"/C/Users/Administrator.W492G6DWUPE74IH/AppData/Roaming/Sublime Text 3/Packages/User/python34.sublime-build",
+		"/F/codes/luacov-master/src/luacov/runner.lua",
+		"/F/codes/luacov-master/src/luacov/test.out",
+		"/F/codes/luacov-master/src/luaurltry.lua",
+		"/F/codes/luacov-master/src/spy.lua",
+		"/F/codes/luacov-master/src/luacov/coroutineApply.lua",
+		"/F/codes/luacov-master/src/coroutine.lua",
+		"/F/codes/luacov-master/src/luacov/set.lua",
+		"/F/codes/luacov-master/src/dataStructutre.lua",
+		"/F/codes/luacov-master/src/Windows.lua",
+		"/F/codes/luacov-master/src/readOnly.lua",
+		"/F/codes/luacov-master/src/enven.lua",
+		"/F/codes/luacov-master/src/debug.lua",
+		"/F/codes/luacov-master/src/stringFunc.lua",
+		"/F/codes/luacov-master/src/luacov.report.out",
+		"/F/codes/luacov-master/src/luacov.stats.out",
+		"/D/workspace/lutus/src/app/MyApp.lua",
+		"/F/codes/luacov-master/tests/issue_1.lua",
+		"/C/Users/Administrator.W492G6DWUPE74IH/AppData/Roaming/Sublime Text 3/Packages/User/lua.sublime-build",
+		"/F/codes/luacov-master/src/bin/doreport.lua",
+		"/F/codes/luacov-master/src/luacov/analyseReport.lua",
+		"/E/Binaries-LuaDist-batteries-0.9.8-Windows-x86/share/luarocks/rocks/share/lua/5.1/luacov.lua",
+		"/D/Old_Docs/tecs/编程珠玑第二版中英源打包/源代码/Column 11/SortAnim.java",
+		"/E/Dropbox/py30eg/utils/Product/googleSearch/googleSearch.py",
+		"/E/Dropbox/py30eg/easyTests/justForTest5.py",
+		"/E/Dropbox/py30eg/utils/fileProcess.py",
+		"/E/Dropbox/py30eg/utils/Product/wordCount/countTool.py",
+		"/E/Dropbox/luarocks-2.2.1-win32/README.md",
+		"/E/Dropbox/luarocks-2.2.1-win32/install.bat",
+		"/E/Binaries-LuaDist-batteries-0.9.8-Windows-x86/share/luarocks/rocks/bin/luacov.bat",
+		"/E/Binaries-LuaDist-batteries-0.9.8-Windows-x86/share/luarocks/rocks/lib/luarocks/rocks/luacov/0.7-1/bin/luacov",
+		"/E/Binaries-LuaDist-batteries-0.9.8-Windows-x86/lib/lua/luarocks/install.lua",
+		"/E/Dropbox/luacov-0.7-1.src.rock",
+		"/E/Binaries-LuaDist-batteries-0.9.8-Windows-x86/share/libffi/README",
+		"/F/debian-live-7.8.0-amd64-gnome-desktop/install/install.bat",
+		"/E/Dropbox/luarocks-2.2.1-win32/src/bin/luarocks",
+		"/E/Dropbox/py30eg/utils/uitry.py",
+		"/E/Dropbox/py30eg/utils/Product/AStar/astar.py",
+		"/E/Dropbox/py30eg/utils/Product/doubanTry/getDoubanData.py",
+		"/E/Dropbox/py30eg/easyTests/justForTest4.py",
+		"/E/Dropbox/py30eg/utils/Product/setup.py",
+		"/E/Dropbox/py30eg/utils/Product/test.py",
+		"/E/Dropbox/py30eg/utils/Product/googleSearch.py",
+		"/E/Dropbox/py30eg/BikeStock.py",
+		"/E/Dropbox/py30eg/bookmarks-tk.pyw",
+		"/E/Dropbox/py30eg/Circle.py",
+		"/E/Dropbox/py30eg/Account.py",
+		"/E/Dropbox/py30eg/Abstract.py",
+		"/E/Dropbox/py30eg/Const.py",
+		"/E/Dropbox/py30eg/bookmarks-tk_ans.pyw",
+		"/E/Dropbox/py30eg/utils/tkinter/uiview4.py",
+		"/E/Dropbox/py30eg/utils/transfer.py",
+		"/E/Dropbox/py30eg/utils/browser.py",
+		"/C/Python34/Lib/site-packages/cx_Freeze/samples/Tkinter/setup.py",
+		"/C/Python34/Lib/site-packages/cx_Freeze/samples/Tkinter/SimpleTkApp.py",
+		"/C/Python34/Lib/site-packages/cx_Freeze/samples/PyQt4/PyQt4app.py",
+		"/C/Python34/Lib/site-packages/cx_Freeze/samples/zope/setup.py",
+		"/C/Python34/Scripts/cxfreeze-postinstall",
+		"/C/Python34/Scripts/cxfreeze-quickstart",
+		"/C/Python34/Scripts/cxfreeze",
+		"/C/Python34/Lib/importlib/_bootstrap.py",
+		"/C/Users/Administrator.W492G6DWUPE74IH/Desktop/cx_Freeze-4.3.4-cp34-none-win32/cx_Freeze-4.3.4.data/scripts/cxfreeze-quickstart",
+		"/C/Users/Administrator.W492G6DWUPE74IH/Desktop/cx_Freeze-4.3.4-cp34-none-win32/cx_Freeze-4.3.4.data/scripts/cxfreeze",
+		"/C/Users/Administrator.W492G6DWUPE74IH/Desktop/cx_Freeze-4.3.4-cp34-none-win32/cx_Freeze-4.3.4.dist-info/WHEEL",
+		"/E/product/_socket.pyd",
+		"/E/Dropbox/py30eg/utils/test.py",
+		"/E/Dropbox/py30eg/utils/uiview3.py",
+		"/E/Dropbox/py30eg/utils/uiview.py",
+		"/E/Dropbox/py30eg/utils/uiview2.py",
+		"/E/pythonExe/_ctypes.pyd",
+		"/E/Dropbox/py30eg/utils/testOnly.txt",
+		"/C/Users/Administrator.W492G6DWUPE74IH/Desktop/code&Resources/Guttag_Python_Code/codeForWebSite/Chapter 3/code.py",
+		"/C/Python34/Scripts/cxfreeze.bat",
+		"/E/Dropbox/py30eg/utils/statistic.txt",
+		"/D/workspace/lutus/src/app/scenes/MainScene.lua",
+		"/C/$RECYCLE.BIN/S-1-5-21-1599639207-3860051819-3630491647-500/$RFDUOV1/Packages/Python/Python.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"F:\\codes\\luacov-master\\src\\luacov",
+			"E:\\Binaries-LuaDist-batteries-0.9.8-Windows-x86\\share\\luarocks\\rocks\\share\\lua\\5.1\\luacov",
+			"E:\\Dropbox\\py30eg",
+			"C:\\Users\\Administrator.W492G6DWUPE74IH\\Desktop\\pip",
+			"E:\\Dropbox\\py30eg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"statsfile",
+			"stats.save",
+			"MISSED BY LUACOV",
+			"read_key",
+			"line_nr",
+			"on_line",
+			"stats.save",
+			".max",
+			"data",
+			"stats.save",
+			"stats.load()",
+			"data",
+			"stats.save",
+			"savestepsize",
+			"includetree",
+			"addtreetolist",
+			"getfilename",
+			"addfiletolist",
+			"getfilename",
+			"findfunction",
+			"getfilename",
+			"includetree",
+			"on_line",
+			"defaults",
+			"configfile",
+			"match",
+			"tick",
+			"configfile",
+			"urllib",
+			"bs4",
+			"print",
+			"FILETYPE",
+			"textvariable",
+			"_entryFrom",
+			"self.fileType",
+			"lambda",
+			"keywordQuote",
+			"Tk",
+			"inAnchorCheck",
+			"keywordQuote",
+			"frame1",
+			"setStatusBar",
+			"class",
+			"ok",
+			"se if",
+			"else",
+			".append",
+			"checkVar",
+			"_init_",
+			"self._entry",
+			"else",
+			"setup.py",
+			"$",
+			"!=",
+			"~=",
+			"dict"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ab_sortedList"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "doubanSpider.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"auto_name": "doubanSpider.py",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 517.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "finder.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1066,
+								1066
+							]
+						],
+						"settings":
+						{
+							"auto_name": "finder.py",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "DouBanData.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"defaults",
+				"luacov-master\\src\\luacov\\defaults.lua"
+			],
+			[
+				"grep",
+				"grepword-m.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
